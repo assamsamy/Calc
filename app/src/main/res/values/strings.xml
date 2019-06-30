@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculatrice</string>
+    <string name="result">0</string>
+    <string name="entrez_un_item_acheter">Entrez un item à acheter</string>
+    <string name="entrez_sa_quantit">Entrez sa quantité</string>
+    <string name="ajouter">Ajouter</string>
+    <string name="supprimer">Supprimer</string>
+    <string name="modifier">modifier</string>
+
+</resources>
